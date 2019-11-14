@@ -113,7 +113,7 @@ h3 {
   height: 110%;
 }
 .card__one .card__bg {
-  background: url("/assets/img/iceWP.jpg") center/cover no-repeat;
+  background: url("./assets/img/iceWP.jpg") center/cover no-repeat;
 }
 
 .card__two .card__img {
