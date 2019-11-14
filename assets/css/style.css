@@ -113,7 +113,7 @@ h3 {
   height: 110%;
 }
 .card__one .card__bg {
-  background: url("./assets/img/iceWP.jpg") center/cover no-repeat;
+  background: url("../img/iceWP.jpg") center/cover no-repeat;
 }
 
 .card__two .card__img {
@@ -155,13 +155,13 @@ h3 {
 
 .notice {
   background: gold;
-  border-top-left-radius: 6px;
-  bottom: 0;
+  border-bottom-right-radius: 6px;
+  top: 0px;
   font-family: monospace;
   font-size: 14px;
   padding: 8px 10px;
   position: absolute;
-  right: -20px;
+  left: -20px;
 }
 
 .twitter__link {
